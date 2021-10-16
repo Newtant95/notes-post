@@ -1,3 +1,3 @@
-# knote-java
+# notes-post
 
-Simple Spring Boot app to take notes
+Create notes 
